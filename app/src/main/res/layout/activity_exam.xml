@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.java.layoutinflater.exam2Activity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <TextView
+        android:id="@+id/word"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="104dp"
+        android:gravity="center"
+        android:text="TextView"
+        android:textSize="35sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.253"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/late"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginStart="32dp"
+        android:background="@drawable/buttonstyleg"
+        android:text="DEVAM"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintStart_toEndOf="@+id/show"
+        app:layout_constraintTop_toTopOf="@+id/show"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="76dp"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="112dp"
+        android:background="@drawable/buttonstyle"
+        android:text="GÖSTER"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/word" />
+
+    <TextView
+        android:id="@+id/wordt"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:text="turkce"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/show"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/wordK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="29dp"
+        android:layout_marginEnd="6dp"
+        android:layout_marginRight="6dp"
+        android:backgroundTint="@android:color/transparent"
+        android:ems="10"
+        android:hint="turkcesi"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/late"
+        app:layout_constraintEnd_toEndOf="@+id/late"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/soruI"
+        android:layout_width="37dp"
+        android:layout_height="45dp"
+        app:layout_constraintStart_toEndOf="@+id/wordK"
+        app:layout_constraintTop_toTopOf="@+id/wordK"
+        app:srcCompat="@drawable/soru" />
+
+</android.support.constraint.ConstraintLayout>

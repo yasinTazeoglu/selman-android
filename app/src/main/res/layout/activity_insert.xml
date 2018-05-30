@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.java.layoutinflater.insert2Activity">
+
+    <EditText
+        android:id="@+id/english"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:ems="10"
+        android:hint="ingilizce"
+        android:textSize="20sp"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:backgroundTint="@color/pdlg_color_red"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/turkish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:textSize="20sp"
+        android:hint="türkçe"
+        android:backgroundTint="@color/pdlg_color_red"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="@+id/english"
+        app:layout_constraintTop_toBottomOf="@+id/english"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/insert"
+        android:layout_width="109dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="72dp"
+        android:background="@drawable/buttonstyleg"
+        android:textColor="@color/white"
+        android:layout_marginTop="40dp"
+        android:text="ekle"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/turkish"
+        app:layout_constraintTop_toBottomOf="@+id/turkish"
+        android:layout_marginLeft="72dp" />
+
+    <Button
+        android:id="@+id/updateBTN"
+        android:layout_width="109dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/buttonstyle"
+        android:text="düzenle"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/insert"
+        app:layout_constraintTop_toBottomOf="@+id/insert" />
+
+</android.support.constraint.ConstraintLayout>
