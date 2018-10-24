@@ -34,7 +34,7 @@
 
 ## Yapilan degisiklikten sonra PR olusturma
 
-- Bu adima baslamadan once [buradan]() bu adimda kullanilacak komutlarin detayli bilgisini bulabilirsin burada sadece nasil kullanacagin yazacak
+- Bu adima baslamadan once [buradan](#github-command-docs) bu adimda kullanilacak komutlarin detayli bilgisini bulabilirsin burada sadece nasil kullanacagin yazacak
 
 - (**github ui**) Projeden bir **Fork** olusturun dosyalari kendi forkunuza gondermeniz gerek
 - (**terminal**) Kendi branchini olusturmak icin **git checkout -b {your branch name}**
@@ -43,31 +43,54 @@
 - (**terminal**) Projeyi githuba gondermek icin -- **git push -u {your fork link} {your branch name}** -- komutunu yaz
 - (**github ui**) Daha sonra bir **Pul Request** olustur projenin lint ve unit testleri yapildiktan sonra review edilecek hersey dogruysa proje dev branchine merge edilecek
 
-
-
 ## Nodejs
+
 [Doc](https://nodejs.org/en/docs/)
+
 ## React
+
 [Doc](https://reactjs.org/docs/getting-started.html)
+
 ## Razzle
+
 [Doc](https://github.com/jaredpalmer/razzle#quick-start)
-## Axios 
+
+## Axios
+
 [Doc](https://github.com/axios/axios#axios)
+
 ## Prop Types
+
 [Doc](https://github.com/jaredpalmer/razzle#quick-start)
+
 ## React Router
+
 [Doc](https://reacttraining.com/react-router/web/guides/quick-start)
+
 ## Redux
+
 [Doc](https://redux.js.org/)
+
 ## Styled Components
+
 [Doc](https://www.styled-components.com/docs)
+
 ## Eslint
+
 [Doc](https://eslint.org/docs/user-guide/getting-started)
+
 ## Enzyme
+
 [Doc](https://github.com/airbnb/enzyme#enzyme)
+
 ## Jest
+
 [Doc](https://jestjs.io/docs/en/getting-started)
+
 ## Tailwind CSS
+
 [Doc](https://tailwindcss.com/docs/what-is-tailwind/)
+
 ## Babel
+
 [Doc](https://babeljs.io/docs/en/)
