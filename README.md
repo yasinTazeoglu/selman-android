@@ -1,6 +1,6 @@
 # Kommunity App
 
-[Doc](https://docs.google.com/document/d/1P9znOKfQIHDP3BVS5ptvFgzSLmL0vo4WTAZrcKatFBA)&nbsp;&nbsp;&nbsp; node version  **"8.11.4"**   eger version degistirmek istiyorsaniz bakiniz [nvm](https://github.com/creationix/nvm#node-version-manager---) or [nvs](https://github.com/jasongin/nvs#nvs-node-version-switcher)
+[Doc](https://docs.google.com/document/d/1P9znOKfQIHDP3BVS5ptvFgzSLmL0vo4WTAZrcKatFBA)&nbsp;&nbsp;&nbsp; node version  **"8.11.4"**   (eger version degistirmek istiyorsaniz bakiniz [nvm](https://github.com/creationix/nvm#node-version-manager---) or [nvs](https://github.com/jasongin/nvs#nvs-node-version-switcher))
 
 ## Projeyi kendi bilgisayarinda kurma
 
