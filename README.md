@@ -2,23 +2,6 @@
 
 [Doc](https://docs.google.com/document/d/1P9znOKfQIHDP3BVS5ptvFgzSLmL0vo4WTAZrcKatFBA)
 
-## Kullanilan Teknolojiler
-
-- [nodejs](#nodejs)
-- [react](#react)
-- [razzle](#razzle)
-- [axios](#axios)
-- [prop types](#prop-types)
-- [react router](#react-router)
-- [redux](#redux)
-- [styled components](#styled-components)
-- [eslint](#eslint)
-- [enzyme](#enzyme)
-- [jest](#jest)
-- [tailwind css](#tailwind-css)
-- [github](https://lab.github.com/)
-- [babel](#babel)
-
 ## Projeyi kendi bilgisayarinda kurma
 
 - **Clone or download** butonuna tikla ve linki kopyala
@@ -42,6 +25,24 @@
 - (**terminal**) Staging area daki dosyaliri branch e gondermek icin -- **git commit -m "your commit message"** -- komutunu yaz
 - (**terminal**) Projeyi githuba gondermek icin -- **git push -u {your fork link} {your branch name}** -- komutunu yaz
 - (**github ui**) Daha sonra bir **Pul Request** olustur projenin lint ve unit testleri yapildiktan sonra review edilecek hersey dogruysa proje dev branchine merge edilecek
+
+## Kullanilan Teknolojiler
+
+- [nodejs](#nodejs)
+- [react](#react)
+- [razzle](#razzle)
+- [axios](#axios)
+- [prop types](#prop-types)
+- [react router](#react-router)
+- [redux](#redux)
+- [styled components](#styled-components)
+- [eslint](#eslint)
+- [enzyme](#enzyme)
+- [jest](#jest)
+- [tailwind css](#tailwind-css)
+- [github](https://lab.github.com/)
+- [babel](#babel)
+
 
 ## Nodejs
 
