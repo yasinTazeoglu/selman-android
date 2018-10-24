@@ -1,6 +1,6 @@
 # Kommunity App
 
-[Doc](https://docs.google.com/document/d/1P9znOKfQIHDP3BVS5ptvFgzSLmL0vo4WTAZrcKatFBA)
+[Doc](https://docs.google.com/document/d/1P9znOKfQIHDP3BVS5ptvFgzSLmL0vo4WTAZrcKatFBA)&nbsp;&nbsp;&nbsp; node version  **"8.11.4"**
 
 ## Projeyi kendi bilgisayarinda kurma
 
