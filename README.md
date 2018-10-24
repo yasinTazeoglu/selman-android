@@ -15,6 +15,28 @@
 - makinene indirdigin kommunity-frontend pojesine git ve **npm start** yada **yarn start** komutunu calistir
 - Tarayicidan **[localhost:3000](http://localhost:3000/)** adresine git
 
+## Projede kullanilan npm komutlari hakkinda bilgi
+
+- `"build" : projeyi yayinlayacakken kullan`
+
+- `"tailwindcss" : projeyi yayinlayacakken kullan`
+
+- `"start" : projeyi yayinlayacakken kullan`
+
+- `"start:prod" : projeyi yayinlayacakken kullan`
+
+- `"check-if-not-committed" : projeyi yayinlayacakken kullan`
+
+- `"check-travis" : projeyi yayinlayacakken kullan`
+
+- `"test" : projeyi yayinlayacakken kullan`
+
+- `"cover" : projeyi yayinlayacakken kullan`
+
+- `"lint" : projeyi yayinlayacakken kullan`
+
+- `"lint-fix" : projeyi yayinlayacakken kullan`
+
 ## Yapilan degisiklikten sonra PR olusturma
 
 - Bu adima baslamadan once [buradan](#github-command-docs) bu adimda kullanilacak komutlarin detayli bilgisini bulabilirsin burada sadece nasil kullanacagin yazacak
@@ -42,7 +64,6 @@
 - [tailwind css](#tailwind-css)
 - [github](https://lab.github.com/)
 - [babel](#babel)
-
 
 ## Nodejs
 
