@@ -1,6 +1,9 @@
 # Kommunity App
+ 
+Proje gereksinim dokumani: [gdoc](https://docs.google.com/document/d/1P9znOKfQIHDP3BVS5ptvFgzSLmL0vo4WTAZrcKatFBA)
 
-[Doc](https://docs.google.com/document/d/1P9znOKfQIHDP3BVS5ptvFgzSLmL0vo4WTAZrcKatFBA)&nbsp;&nbsp;&nbsp; node version  **"8.11.4"**   (eger version degistirmek istiyorsaniz bakiniz [nvm](https://github.com/creationix/nvm#node-version-manager---) or [nvs](https://github.com/jasongin/nvs#nvs-node-version-switcher))
+Server: node.js **"8.11.4"** (eger version degistirmek istiyorsaniz bakiniz [nvm](https://github.com/creationix/nvm#node-version-manager---) or [nvs](https://github.com/jasongin/nvs#nvs-node-version-switcher))
+Client: react.js
 
 ## Projeyi kendi bilgisayarinda kurma
 
@@ -17,25 +20,29 @@
 
 ## Projede kullanilan npm komutlari hakkinda bilgi
 
-- `"build" : projeyi yayinlayacakken kullan`
+NPM komutu calistirma: `npm run KOMUT`
 
-- `"tailwindcss" : projeyi yayinlayacakken kullan`
+Mevcut komutlar:
 
-- `"start" : projeyi yayinlayacakken kullan`
+- `"build"`: projeyi yayinlayacakken kullan
 
-- `"start:prod" : projeyi yayinlayacakken kullan`
+- `"tailwindcss"`: projeyi yayinlayacakken kullan
 
-- `"check-if-not-committed" : projeyi yayinlayacakken kullan`
+- `"start"`: projeyi yayinlayacakken kullan
 
-- `"check-travis" : projeyi yayinlayacakken kullan`
+- `"start:prod"`: projeyi yayinlayacakken kullan
 
-- `"test" : projeyi yayinlayacakken kullan`
+- `"check-if-not-committed"`: projeyi yayinlayacakken kullan
 
-- `"cover" : projeyi yayinlayacakken kullan`
+- `"check-travis"`: projeyi yayinlayacakken kullan
 
-- `"lint" : projeyi yayinlayacakken kullan`
+- `"test"`: projeyi yayinlayacakken kullan
 
-- `"lint-fix" : projeyi yayinlayacakken kullan`
+- `"cover"`: projeyi yayinlayacakken kullan
+
+- `"lint"`: projeyi yayinlayacakken kullan
+
+- `"lint-fix"`: projeyi yayinlayacakken kullan
 
 ## Yapilan degisiklikten sonra PR olusturma
 
@@ -54,7 +61,6 @@
 - [react](#react)
 - [razzle](#razzle)
 - [axios](#axios)
-- [prop types](#prop-types)
 - [react router](#react-router)
 - [redux](#redux)
 - [styled components](#styled-components)
@@ -62,57 +68,4 @@
 - [enzyme](#enzyme)
 - [jest](#jest)
 - [tailwind css](#tailwind-css)
-- [github](https://lab.github.com/)
 - [babel](#babel)
-
-## Nodejs
-
-[Doc](https://nodejs.org/en/docs/)
-
-## React
-
-[Doc](https://reactjs.org/docs/getting-started.html)
-
-## Razzle
-
-[Doc](https://github.com/jaredpalmer/razzle#quick-start)
-
-## Axios
-
-[Doc](https://github.com/axios/axios#axios)
-
-## Prop Types
-
-[Doc](https://github.com/jaredpalmer/razzle#quick-start)
-
-## React Router
-
-[Doc](https://reacttraining.com/react-router/web/guides/quick-start)
-
-## Redux
-
-[Doc](https://redux.js.org/)
-
-## Styled Components
-
-[Doc](https://www.styled-components.com/docs)
-
-## Eslint
-
-[Doc](https://eslint.org/docs/user-guide/getting-started)
-
-## Enzyme
-
-[Doc](https://github.com/airbnb/enzyme#enzyme)
-
-## Jest
-
-[Doc](https://jestjs.io/docs/en/getting-started)
-
-## Tailwind CSS
-
-[Doc](https://tailwindcss.com/docs/what-is-tailwind/)
-
-## Babel
-
-[Doc](https://babeljs.io/docs/en/)
