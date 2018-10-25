@@ -2,7 +2,7 @@
  
 Proje gereksinim dokumani: [gdoc](https://docs.google.com/document/d/1P9znOKfQIHDP3BVS5ptvFgzSLmL0vo4WTAZrcKatFBA)
 
-Server: node.js **"8.11.4"** (eger version degistirmek istiyorsaniz bakiniz [nvm](https://github.com/creationix/nvm#node-version-manager---) or [nvs](https://github.com/jasongin/nvs#nvs-node-version-switcher)) <br/>
+Server: node.js **"8.11.4"** (eger node versiyonunuzu degistirmek istiyorsaniz bakiniz [nvm](https://github.com/creationix/nvm#node-version-manager---) or [nvs](https://github.com/jasongin/nvs#nvs-node-version-switcher)) <br/>
 Client: react.js
 
 ## Projeyi kendi bilgisayarinda kurma
