@@ -49,10 +49,10 @@ Mevcut komutlar:
 - Bu adima baslamadan once [buradan](#github-command-docs) bu adimda kullanilacak komutlarin detayli bilgisini bulabilirsin burada sadece nasil kullanacagin yazacak
 
 - (**github ui**) Projeden bir **Fork** olusturun dosyalari kendi forkunuza gondermeniz gerek
-- (**terminal**) Kendi branchini olusturmak icin **git checkout -b {your branch name}**
-- (**terminal**) Degisiklikleri kaydettikten sonra -- **git add .** -- komutunu yaz
-- (**terminal**) Staging area daki dosyaliri branch e gondermek icin -- **git commit -m "your commit message"** -- komutunu yaz
-- (**terminal**) Projeyi githuba gondermek icin -- **git push -u {your fork link} {your branch name}** -- komutunu yaz
+- (**terminal**) Kendi branchini olusturmak icin -- `**git checkout -b {your branch name}**` --
+- (**terminal**) Degisiklikleri kaydettikten sonra -- `**git add .**` -- komutunu yaz
+- (**terminal**) Staging area daki dosyaliri branch e gondermek icin -- `**git commit -m "your commit message"**` -- komutunu yaz
+- (**terminal**) Projeyi githuba gondermek icin -- `**git push -u {your fork link} {your branch name}**` -- komutunu yaz
 - (**github ui**) Daha sonra bir **Pul Request** olustur projenin lint ve unit testleri yapildiktan sonra review edilecek hersey dogruysa proje dev branchine merge edilecek
 
 ## Kullanilan Teknolojiler
