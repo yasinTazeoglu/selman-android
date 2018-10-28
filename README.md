@@ -20,10 +20,10 @@ buraya misyon eklenecek
 
 ## Projeyi kendi bilgisayarinda kurma
 
-- **Clone or download** butonuna tikla ve linki kopyala
-- Terminaline **git clone {your link}** seklinde yaz
-- Daha sonra **cd kommunity-frontend** yaz
-- Son olarak **npm install** yada **yarn**
+- `Clone or download` butonuna tikla ve linki kopyala
+- Terminaline `git clone {your link}` seklinde yaz
+- Daha sonra `cd kommunity-frontend` yaz
+- Son olarak `npm install` yada `yarn`
 
 ## Projeyi kendi bilgisayarinda calistirma
 
