@@ -8,7 +8,7 @@ Client: react.js <br/>
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 ## Misyonumuz
-
+buraya misyon eklenecek
 
 ## Projeyi kendi bilgisayarinda kurma
 
