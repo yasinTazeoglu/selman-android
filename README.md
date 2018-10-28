@@ -4,6 +4,11 @@ Proje gereksinim dokumani: [gdoc](https://docs.google.com/document/d/1P9znOKfQIH
 
 Server: node.js **"8.11.4"** (eger node versiyonunuzu degistirmek istiyorsaniz bakiniz [nvm](https://github.com/creationix/nvm#node-version-manager---) or [nvs](https://github.com/jasongin/nvs#nvs-node-version-switcher)) <br/>
 Client: react.js
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
+## Misyonumuz
+
 
 ## Projeyi kendi bilgisayarinda kurma
 
