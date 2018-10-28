@@ -33,7 +33,7 @@ buraya misyon eklenecek
 
 ## Projede kullanilan npm komutlari hakkinda bilgi
 
-NPM komutu calistirma: `npm run KOMUT`
+NPM komutu calistirma: `npm run KOMUT` yada `yarn KOMUT`
 
 Mevcut komutlar:
 
