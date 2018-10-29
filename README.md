@@ -60,17 +60,16 @@ Mevcut komutlar:
 
 ## Kullanilan Teknolojiler
 
-- [nodejs](#nodejs)
-- [react](#react)
-- [razzle](#razzle)
-- [axios](#axios)
-- [react router](#react-router)
-- [redux](#redux)
-- [styled components](#styled-components)
-- [eslint](#eslint)
-- [enzyme](#enzyme)
-- [jest](#jest)
-- [tailwind css](#tailwind-css)
-- [babel](#babel)
+- [nodejs](https://nodejs.org/en/docs/)
+- [react](https://reactjs.org/docs/getting-started.html)
+- [razzle](https://github.com/jaredpalmer/razzle#quick-start)
+- [axios](https://github.com/axios/axios#axios)
+- [react router](https://reacttraining.com/react-router/web/guides/quick-start)
+- [redux](https://redux.js.org/)
+- [eslint](https://eslint.org/docs/user-guide/getting-started)
+- [enzyme](https://github.com/airbnb/enzyme#enzyme)
+- [jest](https://jestjs.io/docs/en/getting-started)
+- [tailwind css](https://tailwindcss.com/docs/what-is-tailwind/)
+- [babel](https://babeljs.io/docs/en/)
 
 
