@@ -31,7 +31,7 @@ Mevcut komutlar:
 
 - `"tailwindcss"`: projeyi yayinlayacakken kullan
 
-- `"start"`: projeyi yayinlayacakken kullan
+- `"start"`: projeyi [localhost:3000](http://localhost:3000/) portunda baslatir
 
 - `"start:prod"`: projeyi yayinlayacakken kullan
 
@@ -39,13 +39,13 @@ Mevcut komutlar:
 
 - `"check-travis"`: projeyi yayinlayacakken kullan
 
-- `"test"`: projeyi yayinlayacakken kullan
+- `"test"`: projenin testlerini yapar
 
 - `"cover"`: projeyi yayinlayacakken kullan
 
-- `"lint"`: projeyi yayinlayacakken kullan
+- `"lint"`: projede bulunan lint hatalarini gosterir
 
-- `"lint-fix"`: projeyi yayinlayacakken kullan
+- `"lint-fix"`: projede bulunan lint hatalarini duzeltebileceklerini duzeltir duzeltemediklerini gosterir
 
 ## Yapilan degisiklikten sonra PR olusturma
 
