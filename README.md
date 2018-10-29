@@ -60,16 +60,16 @@ Mevcut komutlar:
 
 ## Kullanilan Teknolojiler
 
-- [nodejs](https://nodejs.org/en/docs/)
-- [react](https://reactjs.org/docs/getting-started.html)
-- [razzle](https://github.com/jaredpalmer/razzle#quick-start)
-- [axios](https://github.com/axios/axios#axios)
-- [react router](https://reacttraining.com/react-router/web/guides/quick-start)
-- [redux](https://redux.js.org/)
-- [eslint](https://eslint.org/docs/user-guide/getting-started)
-- [enzyme](https://github.com/airbnb/enzyme#enzyme)
-- [jest](https://jestjs.io/docs/en/getting-started)
-- [tailwind css](https://tailwindcss.com/docs/what-is-tailwind/)
-- [babel](https://babeljs.io/docs/en/)
+- [nodejs](https://nodejs.org/en/docs/){:target="_blank"}
+- [react](https://reactjs.org/docs/getting-started.html){:target="_blank"}
+- [razzle](https://github.com/jaredpalmer/razzle#quick-start){:target="_blank"}
+- [axios](https://github.com/axios/axios#axios){:target="_blank"}
+- [react router](https://reacttraining.com/react-router/web/guides/quick-start){:target="_blank"}
+- [redux](https://redux.js.org/){:target="_blank"}
+- [eslint](https://eslint.org/docs/user-guide/getting-started){:target="_blank"}
+- [enzyme](https://github.com/airbnb/enzyme#enzyme){:target="_blank"}
+- [jest](https://jestjs.io/docs/en/getting-started){:target="_blank"}
+- [tailwind css](https://tailwindcss.com/docs/what-is-tailwind/){:target="_blank"}
+- [babel](https://babeljs.io/docs/en/){:target="_blank"}
 
 
